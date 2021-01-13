@@ -14,9 +14,9 @@ Apaixonado por **tecnologia** e **empreendedorismo**.
 
 ## O que estou fazendo atualmente?
 
-💻 - Aprendendo programação Android com Java.
-😬 - Aprendendo WordPress.
-📚  - Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Opet.
+ - 💻 Aprendendo programação Android com Java.
+ - 😬 Aprendendo WordPress.
+ - 📚 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Opet.
 
 ## Tecnologias, Ferramentas e Linguagens
 
