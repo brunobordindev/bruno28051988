@@ -12,8 +12,8 @@ Apaixonado por **tecnologia** e **empreendedorismo**.
 
 **Hobby:** Trilha, Viajar e Jiu-Jítsu.
 
-
-<img src="https://teams.microsoft.com/l/meetup-join/19%3a07165549f207406b996d57077d432e3a%40thread.tacv2/1610462437171?context=%7b%22Tid%22%3a%228f0133fa-8efb-40b1-8ac6-37c78469f445%22%2c%22Oid%22%3a%2256dc5211-9286-4e1c-bebb-f0c3fec0cce9%22%7d/bruno28051988/bruno28051988/blob/main/foto.gif?raw=true" width="125px">
+<img src="https://teams.microsoft.com/l/meetup-join/19%3a07165549f207406b996d57077d432e3a%40thread.tacv2/1610462437171?context=%7b%22Tid%22%3a%228f0133fa-8efb-40b1-8ac6-37c78469f445%22%2c%22Oid%22%3a%2256dc5211-9286-4e1c-bebb-f0c3fec0cce9%22%7d/bruno28051988/bruno28051988/blob/main/foto.jpg?raw=true" width="125px">
+<img src="/bruno28051988/bruno28051988/blob/main/foto.jpg?raw=true" width="125px">
 ## O que estou fazendo atualmente?
 
  - 💻 Aprendendo programação Android com Java.
