@@ -22,5 +22,5 @@ Apaixonado por **tecnologia** e **empreendedorismo**.
 
 <code><img width="25%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>  <code><img width="25%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
-Meus Status no Github
+## Meus Status no Github
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno28051988&show_icons=true&locale=en" alt="Bruno Rodrigues Bordin"/>
