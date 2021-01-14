@@ -10,10 +10,9 @@ Atualmente trabalho como Trainee de Android na **Foursys**.
 
 Apaixonado por **tecnologia** e **empreendedorismo**.
 
-<img src="https://github.com/bruno28051988/bruno28051988/blob/main/video.gif?raw=true" width="125px">
-
 **Hobby:** Trilha, Viajar e Jiu-Jítsu.
 
+<img src="https://github.com/bruno28051988/bruno28051988/blob/main/foto.gif?raw=true" width="125px">
 ## O que estou fazendo atualmente?
 
  - 💻 Aprendendo programação Android com Java.
